@@ -11,8 +11,12 @@ Showing how to 'Manually' change your MAC using Kali Linux as demonstration
 
 <img width="780" height="395" alt="Pasted image 20251225002044" src="https://github.com/user-attachments/assets/76690f55-ec51-4c59-b3c0-a9101996f3cf" />
 - Now here I have used sudo ip link set dev eth0 address 08:02:27:00:00:00 (completely random) to set my 'new' mac address and showing that it indeed did change.
-- In fact this was very simple to do , all with some simple commands that anyone can take the time and look up if needed.
+-
+-  In fact this was very simple to do , all with some simple commands that anyone can take the time and look up if needed.
+-
 - Mac Spoofing bypasses network security , access restricted Wi-Fi, or hide identity, or even impersonate other devices, used for both malicious reasons like unauthorized network entry and legitimate purposes like troubleshooting or network  redundancy. It tricks system into thinking a spoofed device is a trusted one, which enables attackers to eavesdrop or gain access, while administrators use it for testing and failover systems 
+
+
 
 Now the main project I thought of doing was turning this into a script itself
 - <img width="1279" height="799" alt="Pasted image 20251225014315" src="https://github.com/user-attachments/assets/d8172998-0a8e-4937-932c-f45c6f30a530" />
