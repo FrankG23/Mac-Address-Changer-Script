@@ -19,11 +19,11 @@ Mac Spoofing bypasses network security , access restricted Wi-Fi, or hide identi
 ---
 
 Now the main project I thought of doing was turning this into a script itself
-- <img width="1279" height="799" alt="Pasted image 20251225014315" src="https://github.com/user-attachments/assets/d8172998-0a8e-4937-932c-f45c6f30a530" />
-- For this portion I ended up creating a python script  as shown above
+<img width="1279" height="799" alt="Pasted image 20251225014315" src="https://github.com/user-attachments/assets/d8172998-0a8e-4937-932c-f45c6f30a530" />
+For this portion I ended up creating a python script  as shown above
 
 <img width="1212" height="97" alt="Pasted image 20251225014641" src="https://github.com/user-attachments/assets/7351a62d-5f45-45e7-9fb8-0eabb3d3ab89" />
-- - We have showing original mac address prior to running the script
+We have showing original mac address prior to running the script
  
 <img width="1217" height="396" alt="Pasted image 20251225014659" src="https://github.com/user-attachments/assets/07487002-1750-4898-b85f-36f6ebcabba9" />
-- Than we have running the script and showing the mac address did in fact did change as intended to do so 
+Than we have running the script and showing the mac address did in fact did change as intended to do so 
