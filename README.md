@@ -6,10 +6,12 @@ Developed a Python-based network scanner to identify active devices on a local n
 
 Showing how to 'Manually' change your MAC using Kali Linux as demonstration
 <img width="784" height="622" alt="Pasted image 20251225001712" src="https://github.com/user-attachments/assets/94f565ea-8388-4ea7-9862-ddcc7552cc0c" />
+
  Here is a showcase of showing current VM's Mac address , than setting our network operational status to 'Down'. This step is crucial for spoofing your mac address 
 
 
 <img width="780" height="395" alt="Pasted image 20251225002044" src="https://github.com/user-attachments/assets/76690f55-ec51-4c59-b3c0-a9101996f3cf" />
+
 Now here I have used sudo ip link set dev eth0 address 08:02:27:00:00:00 (completely random) to set my 'new' mac address and showing that it indeed did change.
 In fact this was very simple to do , all with some simple commands that anyone can take the time and look up if needed.
 Mac Spoofing bypasses network security , access restricted Wi-Fi, or hide identity, or even impersonate other devices, used for both malicious reasons like unauthorized network entry and legitimate purposes like troubleshooting or network  redundancy. It tricks system into thinking a spoofed device is a trusted one, which enables attackers to eavesdrop or gain access, while administrators use it for testing and failover systems 
